@@ -1,1 +1,0 @@
-print("management related code)
